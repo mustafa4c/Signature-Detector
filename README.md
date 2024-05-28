@@ -1,0 +1,5 @@
+![Segnature1](https://github.com/mustafa4c/Signature-Detector/assets/88936207/0c41e3ac-d6ba-4533-b0f3-be629abf0457)
+![Segnature2](https://github.com/mustafa4c/Signature-Detector/assets/88936207/91128d6d-7269-48d5-af31-1db67a4feaca)
+![Segnature3](https://github.com/mustafa4c/Signature-Detector/assets/88936207/a6420e8f-45f6-409a-bd59-fa18a0b7c775)
+![Segnature4](https://github.com/mustafa4c/Signature-Detector/assets/88936207/473ecb98-b416-48f0-a988-a357a3113532)
+![Segnature5](https://github.com/mustafa4c/Signature-Detector/assets/88936207/db6cb9a6-ad2d-458c-a717-3ef38381986b)
